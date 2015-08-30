@@ -1,0 +1,1528 @@
+16:03:09 CONFIG [Server]/address: "172.168.0.116"
+
+16:03:09 CONFIG [Server]/port: 6666
+
+16:03:17 Sending plan...
+
+16:03:17 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:17 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:17 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:17 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:17 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:17 sendInfo: "From: ServerName, To: ClientName, Time: 1, 周日 八月 30 2015, 16:03:17"
+
+16:03:17 m_totalBytes: 544
+
+16:03:17 Bytes Written: 544
+
+16:03:17 Send checked !
+
+16:03:17 SERVER : SEND FINISHED.
+
+16:03:17 -------------------------------------
+
+16:03:17 Send finished
+
+16:03:17 readyRead...
+
+16:03:17 bytesAvail: 136
+
+16:03:17 m_receivedInfo: "From: ServerName, To: ClientName, Time: 1, 周日 八月 30 2015, 16:03:17"
+
+16:03:17 Send-back checked.
+
+16:03:17 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:17 **************************************
+
+16:03:18 Sending command start...
+
+16:03:18 Send finished
+
+16:03:18 SERVER : SEND COMMAND START
+
+16:03:18 **************************************
+
+16:03:18 Sending command pause...
+
+16:03:18 Send finished
+
+16:03:18 SERVER : SEND COMMAND PAUSE
+
+16:03:18 **************************************
+
+16:03:19 Sending command pause...
+
+16:03:19 Send finished
+
+16:03:19 SERVER : SEND COMMAND PAUSE
+
+16:03:19 **************************************
+
+16:03:19 Sending command stop...
+
+16:03:19 Send finished
+
+16:03:19 SERVER : SEND COMMAND STOP
+
+16:03:19 **************************************
+
+16:03:20 Sending command stop...
+
+16:03:20 Send finished
+
+16:03:20 SERVER : SEND COMMAND STOP
+
+16:03:20 **************************************
+
+16:03:20 Sending command start...
+
+16:03:20 Send finished
+
+16:03:20 SERVER : SEND COMMAND START
+
+16:03:20 **************************************
+
+16:03:21 Sending command pause...
+
+16:03:21 Send finished
+
+16:03:21 SERVER : SEND COMMAND PAUSE
+
+16:03:21 **************************************
+
+16:03:21 Sending command pause...
+
+16:03:21 Send finished
+
+16:03:21 SERVER : SEND COMMAND PAUSE
+
+16:03:21 **************************************
+
+16:03:22 Sending plan...
+
+16:03:22 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:22 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:22 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:22 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:22 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:22 sendInfo: "From: ServerName, To: ClientName, Time: 2, 周日 八月 30 2015, 16:03:22"
+
+16:03:22 m_totalBytes: 544
+
+16:03:22 Bytes Written: 544
+
+16:03:22 Send checked !
+
+16:03:22 SERVER : SEND FINISHED.
+
+16:03:22 -------------------------------------
+
+16:03:22 Send finished
+
+16:03:22 readyRead...
+
+16:03:22 bytesAvail: 136
+
+16:03:22 m_receivedInfo: "From: ServerName, To: ClientName, Time: 2, 周日 八月 30 2015, 16:03:22"
+
+16:03:22 Send-back checked.
+
+16:03:22 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:22 **************************************
+
+16:03:22 Sending command pause...
+
+16:03:22 Send finished
+
+16:03:22 SERVER : SEND COMMAND PAUSE
+
+16:03:22 **************************************
+
+16:03:23 Sending command start...
+
+16:03:23 Send finished
+
+16:03:23 SERVER : SEND COMMAND START
+
+16:03:23 **************************************
+
+16:03:23 Sending command pause...
+
+16:03:23 Send finished
+
+16:03:23 SERVER : SEND COMMAND PAUSE
+
+16:03:23 **************************************
+
+16:03:24 Sending command start...
+
+16:03:24 Send finished
+
+16:03:24 SERVER : SEND COMMAND START
+
+16:03:24 **************************************
+
+16:03:24 Sending command start...
+
+16:03:24 Send finished
+
+16:03:24 SERVER : SEND COMMAND START
+
+16:03:24 **************************************
+
+16:03:25 Sending command start...
+
+16:03:25 Send finished
+
+16:03:25 SERVER : SEND COMMAND START
+
+16:03:25 **************************************
+
+16:03:25 Sending command start...
+
+16:03:25 Send finished
+
+16:03:25 SERVER : SEND COMMAND START
+
+16:03:25 **************************************
+
+16:03:26 Sending command start...
+
+16:03:26 Send finished
+
+16:03:26 SERVER : SEND COMMAND START
+
+16:03:26 **************************************
+
+16:03:26 Sending command stop...
+
+16:03:26 Send finished
+
+16:03:26 SERVER : SEND COMMAND STOP
+
+16:03:26 **************************************
+
+16:03:27 Sending plan...
+
+16:03:27 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:27 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:27 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:27 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:27 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:27 sendInfo: "From: ServerName, To: ClientName, Time: 3, 周日 八月 30 2015, 16:03:27"
+
+16:03:27 m_totalBytes: 544
+
+16:03:27 Bytes Written: 544
+
+16:03:27 Send checked !
+
+16:03:27 SERVER : SEND FINISHED.
+
+16:03:27 -------------------------------------
+
+16:03:27 Send finished
+
+16:03:27 readyRead...
+
+16:03:27 bytesAvail: 136
+
+16:03:27 m_receivedInfo: "From: ServerName, To: ClientName, Time: 3, 周日 八月 30 2015, 16:03:27"
+
+16:03:27 Send-back checked.
+
+16:03:27 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:27 **************************************
+
+16:03:27 Sending command pause...
+
+16:03:27 Send finished
+
+16:03:27 SERVER : SEND COMMAND PAUSE
+
+16:03:27 **************************************
+
+16:03:28 Sending command stop...
+
+16:03:28 Send finished
+
+16:03:28 SERVER : SEND COMMAND STOP
+
+16:03:28 **************************************
+
+16:03:29 Sending plan...
+
+16:03:29 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:29 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:29 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:29 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:29 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:29 sendInfo: "From: ServerName, To: ClientName, Time: 4, 周日 八月 30 2015, 16:03:29"
+
+16:03:29 m_totalBytes: 544
+
+16:03:29 Bytes Written: 544
+
+16:03:29 Send checked !
+
+16:03:29 SERVER : SEND FINISHED.
+
+16:03:29 -------------------------------------
+
+16:03:29 Send finished
+
+16:03:29 readyRead...
+
+16:03:29 bytesAvail: 136
+
+16:03:29 m_receivedInfo: "From: ServerName, To: ClientName, Time: 4, 周日 八月 30 2015, 16:03:29"
+
+16:03:29 Send-back checked.
+
+16:03:29 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:29 **************************************
+
+16:03:29 Sending plan...
+
+16:03:29 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:29 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:29 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:29 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:29 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:29 sendInfo: "From: ServerName, To: ClientName, Time: 5, 周日 八月 30 2015, 16:03:29"
+
+16:03:29 m_totalBytes: 544
+
+16:03:29 Bytes Written: 544
+
+16:03:29 Send checked !
+
+16:03:29 SERVER : SEND FINISHED.
+
+16:03:29 -------------------------------------
+
+16:03:29 Send finished
+
+16:03:29 readyRead...
+
+16:03:29 bytesAvail: 136
+
+16:03:29 m_receivedInfo: "From: ServerName, To: ClientName, Time: 5, 周日 八月 30 2015, 16:03:29"
+
+16:03:29 Send-back checked.
+
+16:03:29 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:29 **************************************
+
+16:03:30 Sending command stop...
+
+16:03:30 Send finished
+
+16:03:30 SERVER : SEND COMMAND STOP
+
+16:03:30 **************************************
+
+16:03:30 Sending command pause...
+
+16:03:30 Send finished
+
+16:03:30 SERVER : SEND COMMAND PAUSE
+
+16:03:30 **************************************
+
+16:03:31 Sending command pause...
+
+16:03:31 Send finished
+
+16:03:31 SERVER : SEND COMMAND PAUSE
+
+16:03:31 **************************************
+
+16:03:31 Sending plan...
+
+16:03:31 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:31 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:31 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:31 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:31 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:31 sendInfo: "From: ServerName, To: ClientName, Time: 6, 周日 八月 30 2015, 16:03:31"
+
+16:03:31 m_totalBytes: 544
+
+16:03:31 Bytes Written: 544
+
+16:03:31 Send checked !
+
+16:03:31 SERVER : SEND FINISHED.
+
+16:03:31 -------------------------------------
+
+16:03:31 Send finished
+
+16:03:31 readyRead...
+
+16:03:31 bytesAvail: 136
+
+16:03:31 m_receivedInfo: "From: ServerName, To: ClientName, Time: 6, 周日 八月 30 2015, 16:03:31"
+
+16:03:31 Send-back checked.
+
+16:03:31 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:31 **************************************
+
+16:03:32 Sending command stop...
+
+16:03:32 Send finished
+
+16:03:32 SERVER : SEND COMMAND STOP
+
+16:03:32 **************************************
+
+16:03:32 Sending plan...
+
+16:03:32 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:32 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:32 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:32 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:32 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:32 sendInfo: "From: ServerName, To: ClientName, Time: 7, 周日 八月 30 2015, 16:03:32"
+
+16:03:32 m_totalBytes: 544
+
+16:03:32 Bytes Written: 544
+
+16:03:32 Send checked !
+
+16:03:32 SERVER : SEND FINISHED.
+
+16:03:32 -------------------------------------
+
+16:03:32 Send finished
+
+16:03:32 readyRead...
+
+16:03:32 bytesAvail: 136
+
+16:03:32 m_receivedInfo: "From: ServerName, To: ClientName, Time: 7, 周日 八月 30 2015, 16:03:32"
+
+16:03:32 Send-back checked.
+
+16:03:32 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:32 **************************************
+
+16:03:33 Sending plan...
+
+16:03:33 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:33 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:33 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:33 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:33 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:33 sendInfo: "From: ServerName, To: ClientName, Time: 8, 周日 八月 30 2015, 16:03:33"
+
+16:03:33 m_totalBytes: 544
+
+16:03:33 Bytes Written: 544
+
+16:03:33 Send checked !
+
+16:03:33 SERVER : SEND FINISHED.
+
+16:03:33 -------------------------------------
+
+16:03:33 Send finished
+
+16:03:33 readyRead...
+
+16:03:33 bytesAvail: 136
+
+16:03:33 m_receivedInfo: "From: ServerName, To: ClientName, Time: 8, 周日 八月 30 2015, 16:03:33"
+
+16:03:33 Send-back checked.
+
+16:03:33 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:33 **************************************
+
+16:03:33 Sending command stop...
+
+16:03:33 Send finished
+
+16:03:33 SERVER : SEND COMMAND STOP
+
+16:03:33 **************************************
+
+16:03:34 Sending plan...
+
+16:03:34 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:34 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:34 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:34 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:34 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:34 sendInfo: "From: ServerName, To: ClientName, Time: 9, 周日 八月 30 2015, 16:03:34"
+
+16:03:34 m_totalBytes: 544
+
+16:03:34 Bytes Written: 544
+
+16:03:34 Send checked !
+
+16:03:34 SERVER : SEND FINISHED.
+
+16:03:34 -------------------------------------
+
+16:03:34 Send finished
+
+16:03:34 readyRead...
+
+16:03:34 bytesAvail: 136
+
+16:03:34 m_receivedInfo: "From: ServerName, To: ClientName, Time: 9, 周日 八月 30 2015, 16:03:34"
+
+16:03:34 Send-back checked.
+
+16:03:34 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:34 **************************************
+
+16:03:35 Sending plan...
+
+16:03:35 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:35 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:35 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:35 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:35 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:35 sendInfo: "From: ServerName, To: ClientName, Time: 10, 周日 八月 30 2015, 16:03:35"
+
+16:03:35 m_totalBytes: 546
+
+16:03:35 Bytes Written: 546
+
+16:03:35 Send checked !
+
+16:03:35 SERVER : SEND FINISHED.
+
+16:03:35 -------------------------------------
+
+16:03:35 Send finished
+
+16:03:35 readyRead...
+
+16:03:35 bytesAvail: 138
+
+16:03:35 m_receivedInfo: "From: ServerName, To: ClientName, Time: 10, 周日 八月 30 2015, 16:03:35"
+
+16:03:35 Send-back checked.
+
+16:03:35 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:35 **************************************
+
+16:03:35 Sending command pause...
+
+16:03:35 Send finished
+
+16:03:35 SERVER : SEND COMMAND PAUSE
+
+16:03:35 **************************************
+
+16:03:36 Sending command start...
+
+16:03:36 Send finished
+
+16:03:36 SERVER : SEND COMMAND START
+
+16:03:36 **************************************
+
+16:03:36 Sending command pause...
+
+16:03:36 Send finished
+
+16:03:36 SERVER : SEND COMMAND PAUSE
+
+16:03:36 **************************************
+
+16:03:37 Sending command stop...
+
+16:03:37 Send finished
+
+16:03:37 SERVER : SEND COMMAND STOP
+
+16:03:37 **************************************
+
+16:03:37 Sending command start...
+
+16:03:37 Send finished
+
+16:03:37 SERVER : SEND COMMAND START
+
+16:03:37 **************************************
+
+16:03:38 Sending command start...
+
+16:03:38 Send finished
+
+16:03:38 SERVER : SEND COMMAND START
+
+16:03:38 **************************************
+
+16:03:38 Sending command pause...
+
+16:03:38 Send finished
+
+16:03:38 SERVER : SEND COMMAND PAUSE
+
+16:03:38 **************************************
+
+16:03:39 Sending plan...
+
+16:03:39 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:39 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:39 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:39 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:39 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:39 sendInfo: "From: ServerName, To: ClientName, Time: 11, 周日 八月 30 2015, 16:03:39"
+
+16:03:39 m_totalBytes: 546
+
+16:03:39 Bytes Written: 546
+
+16:03:39 Send checked !
+
+16:03:39 SERVER : SEND FINISHED.
+
+16:03:39 -------------------------------------
+
+16:03:39 Send finished
+
+16:03:39 readyRead...
+
+16:03:39 bytesAvail: 138
+
+16:03:39 m_receivedInfo: "From: ServerName, To: ClientName, Time: 11, 周日 八月 30 2015, 16:03:39"
+
+16:03:39 Send-back checked.
+
+16:03:39 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:39 **************************************
+
+16:03:39 Sending command pause...
+
+16:03:39 Send finished
+
+16:03:39 SERVER : SEND COMMAND PAUSE
+
+16:03:39 **************************************
+
+16:03:40 Sending command stop...
+
+16:03:40 Send finished
+
+16:03:40 SERVER : SEND COMMAND STOP
+
+16:03:40 **************************************
+
+16:03:40 Sending command start...
+
+16:03:40 Send finished
+
+16:03:40 SERVER : SEND COMMAND START
+
+16:03:40 **************************************
+
+16:03:41 Sending command stop...
+
+16:03:41 Send finished
+
+16:03:41 SERVER : SEND COMMAND STOP
+
+16:03:41 **************************************
+
+16:03:41 Sending command start...
+
+16:03:41 Send finished
+
+16:03:41 SERVER : SEND COMMAND START
+
+16:03:41 **************************************
+
+16:03:42 Sending command start...
+
+16:03:42 Send finished
+
+16:03:42 SERVER : SEND COMMAND START
+
+16:03:42 **************************************
+
+16:03:43 Sending command stop...
+
+16:03:43 Send finished
+
+16:03:43 SERVER : SEND COMMAND STOP
+
+16:03:43 **************************************
+
+16:03:43 Sending command start...
+
+16:03:43 Send finished
+
+16:03:43 SERVER : SEND COMMAND START
+
+16:03:43 **************************************
+
+16:03:44 Sending plan...
+
+16:03:44 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:44 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:44 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:44 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:44 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:44 sendInfo: "From: ServerName, To: ClientName, Time: 12, 周日 八月 30 2015, 16:03:44"
+
+16:03:44 m_totalBytes: 546
+
+16:03:44 Bytes Written: 546
+
+16:03:44 Send checked !
+
+16:03:44 SERVER : SEND FINISHED.
+
+16:03:44 -------------------------------------
+
+16:03:44 Send finished
+
+16:03:44 readyRead...
+
+16:03:44 bytesAvail: 138
+
+16:03:44 m_receivedInfo: "From: ServerName, To: ClientName, Time: 12, 周日 八月 30 2015, 16:03:44"
+
+16:03:44 Send-back checked.
+
+16:03:44 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:44 **************************************
+
+16:03:44 Sending command stop...
+
+16:03:44 Send finished
+
+16:03:44 SERVER : SEND COMMAND STOP
+
+16:03:44 **************************************
+
+16:03:45 Sending plan...
+
+16:03:45 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:45 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:45 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:45 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:45 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:45 sendInfo: "From: ServerName, To: ClientName, Time: 13, 周日 八月 30 2015, 16:03:45"
+
+16:03:45 m_totalBytes: 546
+
+16:03:45 Bytes Written: 546
+
+16:03:45 Send checked !
+
+16:03:45 SERVER : SEND FINISHED.
+
+16:03:45 -------------------------------------
+
+16:03:45 Send finished
+
+16:03:45 readyRead...
+
+16:03:45 bytesAvail: 138
+
+16:03:45 m_receivedInfo: "From: ServerName, To: ClientName, Time: 13, 周日 八月 30 2015, 16:03:45"
+
+16:03:45 Send-back checked.
+
+16:03:45 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:45 **************************************
+
+16:03:45 Sending command stop...
+
+16:03:45 Send finished
+
+16:03:45 SERVER : SEND COMMAND STOP
+
+16:03:45 **************************************
+
+16:03:46 Sending command pause...
+
+16:03:46 Send finished
+
+16:03:46 SERVER : SEND COMMAND PAUSE
+
+16:03:46 **************************************
+
+16:03:46 Sending plan...
+
+16:03:46 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:46 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:46 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:46 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:46 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:46 sendInfo: "From: ServerName, To: ClientName, Time: 14, 周日 八月 30 2015, 16:03:46"
+
+16:03:46 m_totalBytes: 546
+
+16:03:46 Bytes Written: 546
+
+16:03:46 Send checked !
+
+16:03:46 SERVER : SEND FINISHED.
+
+16:03:46 -------------------------------------
+
+16:03:46 Send finished
+
+16:03:46 readyRead...
+
+16:03:46 bytesAvail: 138
+
+16:03:46 m_receivedInfo: "From: ServerName, To: ClientName, Time: 14, 周日 八月 30 2015, 16:03:46"
+
+16:03:46 Send-back checked.
+
+16:03:46 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:46 **************************************
+
+16:03:47 Sending command stop...
+
+16:03:47 Send finished
+
+16:03:47 SERVER : SEND COMMAND STOP
+
+16:03:47 **************************************
+
+16:03:47 Sending plan...
+
+16:03:47 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:47 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:47 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:47 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:47 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:47 sendInfo: "From: ServerName, To: ClientName, Time: 15, 周日 八月 30 2015, 16:03:47"
+
+16:03:47 m_totalBytes: 546
+
+16:03:47 Bytes Written: 546
+
+16:03:47 Send checked !
+
+16:03:47 SERVER : SEND FINISHED.
+
+16:03:47 -------------------------------------
+
+16:03:47 Send finished
+
+16:03:47 readyRead...
+
+16:03:47 bytesAvail: 138
+
+16:03:47 m_receivedInfo: "From: ServerName, To: ClientName, Time: 15, 周日 八月 30 2015, 16:03:47"
+
+16:03:47 Send-back checked.
+
+16:03:47 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:47 **************************************
+
+16:03:48 Sending command stop...
+
+16:03:48 Send finished
+
+16:03:48 SERVER : SEND COMMAND STOP
+
+16:03:48 **************************************
+
+16:03:48 Sending command pause...
+
+16:03:48 Send finished
+
+16:03:48 SERVER : SEND COMMAND PAUSE
+
+16:03:48 **************************************
+
+16:03:49 Sending command start...
+
+16:03:49 Send finished
+
+16:03:49 SERVER : SEND COMMAND START
+
+16:03:49 **************************************
+
+16:03:49 Sending plan...
+
+16:03:49 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:49 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:49 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:49 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:49 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:49 sendInfo: "From: ServerName, To: ClientName, Time: 16, 周日 八月 30 2015, 16:03:49"
+
+16:03:49 m_totalBytes: 546
+
+16:03:49 Bytes Written: 546
+
+16:03:49 Send checked !
+
+16:03:49 SERVER : SEND FINISHED.
+
+16:03:49 -------------------------------------
+
+16:03:49 Send finished
+
+16:03:49 readyRead...
+
+16:03:49 bytesAvail: 138
+
+16:03:49 m_receivedInfo: "From: ServerName, To: ClientName, Time: 16, 周日 八月 30 2015, 16:03:49"
+
+16:03:49 Send-back checked.
+
+16:03:49 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:49 **************************************
+
+16:03:50 Sending plan...
+
+16:03:50 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:50 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:50 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:50 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:50 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:50 sendInfo: "From: ServerName, To: ClientName, Time: 17, 周日 八月 30 2015, 16:03:50"
+
+16:03:50 m_totalBytes: 546
+
+16:03:50 Bytes Written: 546
+
+16:03:50 Send checked !
+
+16:03:50 SERVER : SEND FINISHED.
+
+16:03:50 -------------------------------------
+
+16:03:50 Send finished
+
+16:03:50 readyRead...
+
+16:03:50 bytesAvail: 138
+
+16:03:50 m_receivedInfo: "From: ServerName, To: ClientName, Time: 17, 周日 八月 30 2015, 16:03:50"
+
+16:03:50 Send-back checked.
+
+16:03:50 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:50 **************************************
+
+16:03:51 Sending command start...
+
+16:03:51 Send finished
+
+16:03:51 SERVER : SEND COMMAND START
+
+16:03:51 **************************************
+
+16:03:51 Sending command stop...
+
+16:03:51 Send finished
+
+16:03:51 SERVER : SEND COMMAND STOP
+
+16:03:51 **************************************
+
+16:03:52 Sending command pause...
+
+16:03:52 Send finished
+
+16:03:52 SERVER : SEND COMMAND PAUSE
+
+16:03:52 **************************************
+
+16:03:52 Sending command pause...
+
+16:03:52 Send finished
+
+16:03:52 SERVER : SEND COMMAND PAUSE
+
+16:03:52 **************************************
+
+16:03:53 Sending command pause...
+
+16:03:53 Send finished
+
+16:03:53 SERVER : SEND COMMAND PAUSE
+
+16:03:53 **************************************
+
+16:03:53 Sending plan...
+
+16:03:53 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:53 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:53 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:53 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:53 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:53 sendInfo: "From: ServerName, To: ClientName, Time: 18, 周日 八月 30 2015, 16:03:53"
+
+16:03:53 m_totalBytes: 546
+
+16:03:53 Bytes Written: 546
+
+16:03:53 Send checked !
+
+16:03:53 SERVER : SEND FINISHED.
+
+16:03:53 -------------------------------------
+
+16:03:53 Send finished
+
+16:03:53 readyRead...
+
+16:03:53 bytesAvail: 138
+
+16:03:53 m_receivedInfo: "From: ServerName, To: ClientName, Time: 18, 周日 八月 30 2015, 16:03:53"
+
+16:03:53 Send-back checked.
+
+16:03:53 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:53 **************************************
+
+16:03:54 Sending command start...
+
+16:03:54 Send finished
+
+16:03:54 SERVER : SEND COMMAND START
+
+16:03:54 **************************************
+
+16:03:54 Sending plan...
+
+16:03:54 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:54 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:54 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:54 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:54 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:54 sendInfo: "From: ServerName, To: ClientName, Time: 19, 周日 八月 30 2015, 16:03:54"
+
+16:03:54 m_totalBytes: 546
+
+16:03:54 Bytes Written: 546
+
+16:03:54 Send checked !
+
+16:03:54 SERVER : SEND FINISHED.
+
+16:03:54 -------------------------------------
+
+16:03:54 Send finished
+
+16:03:54 readyRead...
+
+16:03:54 bytesAvail: 138
+
+16:03:54 m_receivedInfo: "From: ServerName, To: ClientName, Time: 19, 周日 八月 30 2015, 16:03:54"
+
+16:03:54 Send-back checked.
+
+16:03:54 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:54 **************************************
+
+16:03:55 Sending command stop...
+
+16:03:55 Send finished
+
+16:03:55 SERVER : SEND COMMAND STOP
+
+16:03:55 **************************************
+
+16:03:55 Sending command pause...
+
+16:03:55 Send finished
+
+16:03:55 SERVER : SEND COMMAND PAUSE
+
+16:03:55 **************************************
+
+16:03:56 Sending command stop...
+
+16:03:56 Send finished
+
+16:03:56 SERVER : SEND COMMAND STOP
+
+16:03:56 **************************************
+
+16:03:56 Sending command pause...
+
+16:03:56 Send finished
+
+16:03:56 SERVER : SEND COMMAND PAUSE
+
+16:03:56 **************************************
+
+16:03:57 Sending command start...
+
+16:03:57 Send finished
+
+16:03:57 SERVER : SEND COMMAND START
+
+16:03:57 **************************************
+
+16:03:57 Sending command stop...
+
+16:03:57 Send finished
+
+16:03:57 SERVER : SEND COMMAND STOP
+
+16:03:57 **************************************
+
+16:03:58 Sending plan...
+
+16:03:58 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:58 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:58 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:58 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:58 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:58 sendInfo: "From: ServerName, To: ClientName, Time: 20, 周日 八月 30 2015, 16:03:58"
+
+16:03:58 m_totalBytes: 546
+
+16:03:58 Bytes Written: 546
+
+16:03:58 Send checked !
+
+16:03:58 SERVER : SEND FINISHED.
+
+16:03:58 -------------------------------------
+
+16:03:58 Send finished
+
+16:03:58 readyRead...
+
+16:03:58 bytesAvail: 138
+
+16:03:58 m_receivedInfo: "From: ServerName, To: ClientName, Time: 20, 周日 八月 30 2015, 16:03:58"
+
+16:03:58 Send-back checked.
+
+16:03:58 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:58 **************************************
+
+16:03:59 Sending command stop...
+
+16:03:59 Send finished
+
+16:03:59 SERVER : SEND COMMAND STOP
+
+16:03:59 **************************************
+
+16:03:59 Sending plan...
+
+16:03:59 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:03:59 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:03:59 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:03:59 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:03:59 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:03:59 sendInfo: "From: ServerName, To: ClientName, Time: 21, 周日 八月 30 2015, 16:03:59"
+
+16:03:59 m_totalBytes: 546
+
+16:03:59 Bytes Written: 546
+
+16:03:59 Send checked !
+
+16:03:59 SERVER : SEND FINISHED.
+
+16:03:59 -------------------------------------
+
+16:03:59 Send finished
+
+16:03:59 readyRead...
+
+16:03:59 bytesAvail: 138
+
+16:03:59 m_receivedInfo: "From: ServerName, To: ClientName, Time: 21, 周日 八月 30 2015, 16:03:59"
+
+16:03:59 Send-back checked.
+
+16:03:59 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:03:59 **************************************
+
+16:04:00 Sending command start...
+
+16:04:00 Send finished
+
+16:04:00 SERVER : SEND COMMAND START
+
+16:04:00 **************************************
+
+16:04:00 Sending command start...
+
+16:04:00 Send finished
+
+16:04:00 SERVER : SEND COMMAND START
+
+16:04:00 **************************************
+
+16:04:01 Sending command stop...
+
+16:04:01 Send finished
+
+16:04:01 SERVER : SEND COMMAND STOP
+
+16:04:01 **************************************
+
+16:04:01 Sending command start...
+
+16:04:01 Send finished
+
+16:04:01 SERVER : SEND COMMAND START
+
+16:04:01 **************************************
+
+16:04:02 Sending plan...
+
+16:04:02 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:04:02 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:04:02 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:04:02 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:04:02 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:04:02 sendInfo: "From: ServerName, To: ClientName, Time: 22, 周日 八月 30 2015, 16:04:02"
+
+16:04:02 m_totalBytes: 546
+
+16:04:02 Bytes Written: 546
+
+16:04:02 Send checked !
+
+16:04:02 SERVER : SEND FINISHED.
+
+16:04:02 -------------------------------------
+
+16:04:02 Send finished
+
+16:04:02 readyRead...
+
+16:04:02 bytesAvail: 138
+
+16:04:02 m_receivedInfo: "From: ServerName, To: ClientName, Time: 22, 周日 八月 30 2015, 16:04:02"
+
+16:04:02 Send-back checked.
+
+16:04:02 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:04:02 **************************************
+
+16:04:02 Sending plan...
+
+16:04:02 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:04:02 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:04:02 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:04:02 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:04:02 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:04:02 sendInfo: "From: ServerName, To: ClientName, Time: 23, 周日 八月 30 2015, 16:04:02"
+
+16:04:02 m_totalBytes: 546
+
+16:04:02 Bytes Written: 546
+
+16:04:02 Send checked !
+
+16:04:02 SERVER : SEND FINISHED.
+
+16:04:02 -------------------------------------
+
+16:04:02 Send finished
+
+16:04:02 readyRead...
+
+16:04:02 bytesAvail: 138
+
+16:04:02 m_receivedInfo: "From: ServerName, To: ClientName, Time: 23, 周日 八月 30 2015, 16:04:02"
+
+16:04:02 Send-back checked.
+
+16:04:02 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:04:02 **************************************
+
+16:04:03 Sending command stop...
+
+16:04:03 Send finished
+
+16:04:03 SERVER : SEND COMMAND STOP
+
+16:04:03 **************************************
+
+16:04:03 Sending command stop...
+
+16:04:03 Send finished
+
+16:04:03 SERVER : SEND COMMAND STOP
+
+16:04:03 **************************************
+
+16:04:04 Sending command start...
+
+16:04:04 Send finished
+
+16:04:04 SERVER : SEND COMMAND START
+
+16:04:04 **************************************
+
+16:04:04 Sending command pause...
+
+16:04:04 Send finished
+
+16:04:04 SERVER : SEND COMMAND PAUSE
+
+16:04:04 **************************************
+
+16:04:05 Sending command start...
+
+16:04:05 Send finished
+
+16:04:05 SERVER : SEND COMMAND START
+
+16:04:05 **************************************
+
+16:04:06 Sending command pause...
+
+16:04:06 Send finished
+
+16:04:06 SERVER : SEND COMMAND PAUSE
+
+16:04:06 **************************************
+
+16:04:06 Sending command pause...
+
+16:04:06 Send finished
+
+16:04:06 SERVER : SEND COMMAND PAUSE
+
+16:04:06 **************************************
+
+16:04:07 Sending plan...
+
+16:04:07 X: QHash((90, (1.1, 2.1, 3.1, 4.1))(45, (11, 21, 31, 41, 51)))
+
+16:04:07 Y: QHash((90, (1.2, 2.2, 3.2, 4.2))(45, (12, 22, 32, 42, 52)))
+
+16:04:07 Z: QHash((90, (1.3, 2.3, 3.3, 4.3))(45, (13, 23, 33, 43, 53)))
+
+16:04:07 Spot order: QHash((90, (10, 9, 8, 7, 6))(45, (1, 2, 3, 4, 5)))
+
+16:04:07 Volt: 5 Total time: 10 Period 500 Duty cycle 50 Cooling time 5
+
+16:04:07 sendInfo: "From: ServerName, To: ClientName, Time: 24, 周日 八月 30 2015, 16:04:07"
+
+16:04:07 m_totalBytes: 546
+
+16:04:07 Bytes Written: 546
+
+16:04:07 Send checked !
+
+16:04:07 SERVER : SEND FINISHED.
+
+16:04:07 -------------------------------------
+
+16:04:07 Send finished
+
+16:04:07 readyRead...
+
+16:04:07 bytesAvail: 138
+
+16:04:07 m_receivedInfo: "From: ServerName, To: ClientName, Time: 24, 周日 八月 30 2015, 16:04:07"
+
+16:04:07 Send-back checked.
+
+16:04:07 SERVER : SEND TREATMENT PLAN SECCEEDED.
+
+16:04:07 **************************************
+
+16:04:07 Sending command stop...
+
+16:04:07 Send finished
+
+16:04:07 SERVER : SEND COMMAND STOP
+
+16:04:07 **************************************
+
+16:04:08 Sending command pause...
+
+16:04:08 Send finished
+
+16:04:08 SERVER : SEND COMMAND PAUSE
+
+16:04:08 **************************************
+
+16:04:08 Sending command stop...
+
+16:04:08 Send finished
+
+16:04:08 SERVER : SEND COMMAND STOP
+
+16:04:08 **************************************
+
+16:04:09 Sending command stop...
+
+16:04:09 Send finished
+
+16:04:09 SERVER : SEND COMMAND STOP
+
+16:04:09 **************************************
+
+16:04:09 Sending command start...
+
+16:04:09 Send finished
+
+16:04:09 SERVER : SEND COMMAND START
+
+16:04:09 **************************************
+
+16:04:10 Sending command stop...
+
+16:04:10 Send finished
+
+16:04:10 SERVER : SEND COMMAND STOP
+
+16:04:10 **************************************
+
+16:15:50 CONFIG [Server]/address: "172.168.0.116"
+
+16:15:50 CONFIG [Server]/port: 6666
+
